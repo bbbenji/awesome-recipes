@@ -1,4 +1,4 @@
-# awesome-recipes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Recipes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome food recipes.
 
@@ -12,11 +12,11 @@
 
 ## Collections
 
-[Recipes](https://github.com/panozzaj/recipes) - Anthony's collection of cooking recipes.
+- [Recipes](https://github.com/panozzaj/recipes) - Anthony's collection of cooking recipes.
 
-[Food Recipes](https://github.com/obfuscurity/food-recipes) - Honest-to-goodness "real food" recipes..
+- [Food Recipes](https://github.com/obfuscurity/food-recipes) - Honest-to-goodness "real food" recipes..
 
-[Recipes](https://github.com/dolph/recipes) - Version control: it's what's for dinner.
+- [Recipes](https://github.com/dolph/recipes) - Version control: it's what's for dinner.
 
 
 ## Condiments / Sauces
@@ -26,7 +26,7 @@
 
 ## Tools
 
-[Chowdown](https://github.com/clarklab/chowdown) - Simple recipes in Markdown format.
+- [Chowdown](https://github.com/clarklab/chowdown) - Simple recipes in Markdown format.
 
 ## Contribute
 
