@@ -7,6 +7,7 @@
 
 - [Collections](#collections)
 - [Condiments & Sauces](#condiments--sauces)
+- [Dishes](#dishes)
 - [Tools](#tools)
 
 
@@ -24,6 +25,11 @@
 ## Condiments / Sauces
 
 - [Recipe El Fuego Viviente](https://github.com/aweijnitz/recipe-el_fuego_viviente) - Fermented Chili Sauce.
+
+
+## Dishes
+
+- [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo.
 
 
 ## Tools
