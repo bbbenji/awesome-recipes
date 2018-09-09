@@ -17,6 +17,8 @@
 - [Recipes](https://github.com/dolph/recipes) - Version control: it's what's for dinner.
 - [1337 Noms The Hacker Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - food food food.
 - [auntiesrecipes](https://github.com/user24/auntiesrecipes) - A searchable archive of BBC Food Recipes.
+- [The Bread code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
+- [Cooking Recipes](https://github.com/usmanayubsh/cooking-recipes) - For my adventures in cooking.
 
 
 ## Condiments / Sauces
@@ -32,6 +34,7 @@
 - [Recipe Hero](https://github.com/bryceadams/Recipe-Hero) - A free recipe plugin that makes food taste better.
 - [recipebook](https://github.com/dpapathanasiou/recipebook) - This is a simple application for scraping and parsing food recipe data found on the web in hRecipe format, producing results in json.
 - [meanrecipe](https://github.com/schollz/meanrecipe) - Get a consensus recipe for your next meal.
+- [RasPiBrew](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking.
 
 ## Contribute
 
