@@ -29,8 +29,8 @@
 
 ## Dishes
 - [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
-
 - [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo.
+- [Sexy Chicken Schnitzel](https://gist.github.com/buggymcbugfix/602f34214a37d972993830c2c9526cf0) - Chicken schnitzel, but sexy
 
 
 ## Tools
