@@ -25,6 +25,8 @@
 - [The Bread code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
 - [Cooking Recipes](https://github.com/usmanayubsh/cooking-recipes) - For my adventures in cooking.
 - [Con Sazón](https://github.com/AshtarCodes/Con-Sazon) - A meal planning app and recipe collection centering Latinx and BIPOC gastronomy.
+- [Tasty Cooking](https://github.com/douvy/tasty-cooking) - A modern recipe collection website optimized for performance,
+  accessibility, and visual appeal with no clutter.
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 OK, Let's Cook! A collection of Chinese recipes.
 
 
