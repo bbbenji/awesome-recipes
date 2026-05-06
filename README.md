@@ -28,7 +28,7 @@
 - [Tasty Cooking](https://github.com/douvy/tasty-cooking) - A modern recipe collection website optimized for performance,
   accessibility, and visual appeal with no clutter.
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 OK, Let's Cook! A collection of Chinese recipes.
-
+- [OneTapRecipes](https://onetaprecipes.com/) — Visual recipe cards from a Grand Rapids, MI kitchen. 1,372+ tested recipes in 20 categories with infographic step photos.
 
 ## Condiments / Sauces
 
