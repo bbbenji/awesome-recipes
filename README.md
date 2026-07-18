@@ -74,6 +74,7 @@
 - [Recipya](https://github.com/reaper47/recipya) - A clean, simple and powerful self-hosted recipe manager.
 - [recipebook](https://github.com/dpapathanasiou/recipebook) - This is a simple application for scraping and parsing food recipe data found on the web in hRecipe format, producing results in json.
 - [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much more.
+- [WonderFood](https://github.com/vaddisrinivas/wonderfood) - Local-first Android workspace for recipes, meal planning, inventory, receipts, shopping, and reviewable AI proposals.
 
 ### Developer Resources
 
