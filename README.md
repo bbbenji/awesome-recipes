@@ -18,7 +18,7 @@
 - [Recipes](https://github.com/panozzaj/recipes) - Anthony's collection of cooking recipes.
 - [Food Recipes](https://github.com/obfuscurity/food-recipes) - Honest-to-goodness "real food" recipes.
 - [Recipes](https://github.com/dolph/recipes) - Version control: it's what's for dinner.
-- [1337 Noms The Hacker Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - food food food.
+- [1337 Noms The Hacker Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - Food, food, food.
 - [auntiesrecipes](https://github.com/user24/auntiesrecipes) - A searchable archive of BBC Food Recipes.
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - A programmer's guide to cooking at home (Simplified Chinese).
 - [The Bread code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
@@ -65,7 +65,7 @@
 - [CookCLI](https://github.com/cooklang/cookcli) - Command-line tool and local web server for managing recipes written in Cooklang.
 - [Domingo Fermenter Software](https://github.com/domingoclub/fermenter-software) - Software for controlling food fermentation processes (koji, tempeh).
 - [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) - DeepChef: Classification of Cooking Dishes with Machine Learning.
-- [foodprocessor](https://github.com/pearofducks/foodprocessor) - A react/mobx javascript app for displaying recipes.
+- [foodprocessor](https://github.com/pearofducks/foodprocessor) - A React/MobX JavaScript app for displaying recipes.
 - [Grocy](https://github.com/grocy/grocy) - A self-hosted groceries and household management solution with recipe and meal planning features.
 - [HeaterMeter](https://github.com/CapnBry/HeaterMeter) - Raspberry Pi-based BBQ temperature controller.
 - [ingredient-parser](https://github.com/strangetom/ingredient-parser) - Python library for parsing structured data from recipe ingredient sentences.
@@ -97,13 +97,6 @@
 - [React Native Recipes App Template](https://github.com/dopebase/react-native-recipes-app) - A starter template for recipe apps in React Native.
 
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, bbbenji has waived all copyright and related or neighboring rights to this work.
