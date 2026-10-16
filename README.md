@@ -71,6 +71,7 @@
 - [ingredient-parser](https://github.com/strangetom/ingredient-parser) - Python library for parsing structured data from recipe ingredient sentences.
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - A tool to help identify vegan and non-vegan food ingredients.
 - [KitchenOwl](https://github.com/TomBursch/kitchenowl) - Self-hosted grocery list and recipe manager with meal planning and expense tracking.
+- [Libre Calculator](https://librecalculator.com/calculators/recipe-scaling/) - Scales an ingredient quantity by the serving ratio, with input-specific worked steps and a scale-factor diagram.
 - [Mealie](https://github.com/mealie-recipes/mealie) - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
 - [Mealient](https://github.com/kirmanak/Mealient) - An Android client for the Mealie self-hosted recipe manager.
 - [MEWPlanner](https://github.com/eleow/IRS-MR-2019-07-01-IS1FT-GRP-MEWPlanner) - A smart meal planner with a focus on diabetic-friendly meals (NUS-ISS project).
