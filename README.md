@@ -46,6 +46,7 @@
 - [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) - Open source book for making sourdough bread at home.
 - [Open Source Bagels](https://github.com/andrewkern/bagels) - Aims to be the best open source bagel recipe.
 - [Open Source Dough Sheeter](https://github.com/sjop/doughsheeter) - A 3D-printable dough sheeter for home bakers, based on French Guy Cooking's design.
+- [Sourdough Physics & Open Baking Formulas](https://github.com/forestelf/sourdough-physics) - Open-source bread rheology engine, flour hydration dataset, and [interactive baker's percentage & DDT calculator](https://sourdoughcalc.app).
 
 
 ## Drinks & Cocktails
@@ -87,6 +88,7 @@
 - [RecipeSage](https://github.com/julianpoy/RecipeSage) - Collaborative recipe keeper, meal planner, and shopping list organizer.
 - [Recipya](https://github.com/reaper47/recipya) - A clean, simple and powerful self-hosted recipe manager.
 - [recipebook](https://github.com/dpapathanasiou/recipebook) - This is a simple application for scraping and parsing food recipe data found on the web in hRecipe format, producing results in json.
+- [SourdoughCalc](https://sourdoughcalc.app) - Free, zero-login sourdough hydration, 4-factor DDT & baker's percentage rheology calculator.
 - [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much more.
 - [WonderFood](https://github.com/vaddisrinivas/wonderfood) - Local-first Android workspace for recipes, meal planning, inventory, receipts, shopping, and reviewable AI proposals.
 
