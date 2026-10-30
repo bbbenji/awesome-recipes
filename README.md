@@ -27,6 +27,7 @@
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 OK, Let's Cook! A collection of Chinese recipes.
 - [Based Cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple, ad-free, community-maintained recipe website with no life stories.
 - [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - Recipes from the Chinese fast-food chain Home Original Chicken, adapted for home cooking (Simplified Chinese).
+- [The Turkish Tavern](https://theturkishtavern.com/) - An ad-free English-language encyclopedia of the Turkish meyhane, with 52 meze recipes, a guide to rakı and a glossary of table words.
 
 
 ## Condiments & Sauces
