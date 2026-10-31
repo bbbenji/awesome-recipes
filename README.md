@@ -68,6 +68,7 @@
 - [foodprocessor](https://github.com/pearofducks/foodprocessor) - A React/MobX JavaScript app for displaying recipes.
 - [Grocy](https://github.com/grocy/grocy) - A self-hosted groceries and household management solution with recipe and meal planning features.
 - [HeaterMeter](https://github.com/CapnBry/HeaterMeter) - Raspberry Pi-based BBQ temperature controller.
+- [Ingredient Calculator](https://ingredientcalculator.com/) - Browser recipe scaler, cooking unit converter, ingredient substitution finder and USDA-based nutrition estimator.
 - [ingredient-parser](https://github.com/strangetom/ingredient-parser) - Python library for parsing structured data from recipe ingredient sentences.
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - A tool to help identify vegan and non-vegan food ingredients.
 - [KitchenOwl](https://github.com/TomBursch/kitchenowl) - Self-hosted grocery list and recipe manager with meal planning and expense tracking.
